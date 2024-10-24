@@ -1,5 +1,5 @@
 # Python para IA: do zero ao primeiro chatbot
-<a target="_blank" href="https://hub.asimov.academy/curso/python-para-ia/" title="Página do curso no Asimov Academy">hub.asimov.academy/curso/python-para-ia</a>
+[hub.asimov.academy/curso/python-para-ia](https://hub.asimov.academy/curso/python-para-ia/ "Página do curso no Asimov Academy")
 
 
 Aprenda a programar com Python e explore a inteligência artificial! Crie um chatbot prático que interage com seus próprios dados. Comece agora!
